@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# churchapp
+# church
 
-> App for the church St. Anne's
+> A Vue.js project
 
 ## Build Setup
 
@@ -20,6 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# St.-Anne-s-App
->>>>>>> parent of c30b35c... Vue Added
